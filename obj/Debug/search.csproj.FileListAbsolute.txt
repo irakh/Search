@@ -1,0 +1,12 @@
+C:\Users\chuch\Desktop\search\search\bin\Debug\search.exe
+C:\Users\chuch\Desktop\search\search\bin\Debug\search.exe.config
+C:\Users\chuch\Desktop\search\search\bin\Debug\search.pdb
+C:\Users\chuch\Desktop\search\search\obj\Debug\search.csproj.AssemblyReference.cache
+C:\Users\chuch\Desktop\search\search\obj\Debug\search.csproj.SuggestedBindingRedirects.cache
+C:\Users\chuch\Desktop\search\search\obj\Debug\search.Forms.Main.resources
+C:\Users\chuch\Desktop\search\search\obj\Debug\search.Forms.Search.resources
+C:\Users\chuch\Desktop\search\search\obj\Debug\search.Properties.Resources.resources
+C:\Users\chuch\Desktop\search\search\obj\Debug\search.csproj.GenerateResource.cache
+C:\Users\chuch\Desktop\search\search\obj\Debug\search.csproj.CoreCompileInputs.cache
+C:\Users\chuch\Desktop\search\search\obj\Debug\search.exe
+C:\Users\chuch\Desktop\search\search\obj\Debug\search.pdb
