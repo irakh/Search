@@ -34,7 +34,7 @@
             this.searchButton = new System.Windows.Forms.Button();
             this.stopButton = new System.Windows.Forms.Button();
             this.continueButton = new System.Windows.Forms.Button();
-            this.fileTreeView = new System.Windows.Forms.TreeView();
+            this.fileTreeView = new BufferedTreeView();
             this.currentDirectoryLabel = new System.Windows.Forms.Label();
             this.foundFilesLabel = new System.Windows.Forms.Label();
             this.totalFilesLabel = new System.Windows.Forms.Label();
@@ -171,7 +171,7 @@
         private System.Windows.Forms.Button searchButton;
         private System.Windows.Forms.Button stopButton;
         private System.Windows.Forms.Button continueButton;
-        private System.Windows.Forms.TreeView fileTreeView;
+        private BufferedTreeView fileTreeView;
         private System.Windows.Forms.Label currentDirectoryLabel;
         private System.Windows.Forms.Label foundFilesLabel;
         private System.Windows.Forms.Label totalFilesLabel;
@@ -182,4 +182,5 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
     }
+
 }
